@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A062DD8462AB228A88272FF6B09535E9"
-               BuildableName = "Spring.framework"
-               BlueprintName = "Spring"
+               BlueprintIdentifier = "0E1EC8CEFCB04F48D36C12CD11425CAC"
+               BuildableName = "LGSideMenuController"
+               BlueprintName = "LGSideMenuController"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
